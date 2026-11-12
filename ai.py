@@ -5,13 +5,12 @@ import requests
 
 # ================= KALITLARNI FAQAT SHU YERGA YOZING =================
 CONFIG = {
-    "BOT_TOKEN": "",        # MAJBURIY (BotFather bergan token)
-    "GEMINI_KEYS": "",      # ixtiyoriy: kalit1,kalit2
-    "GROQ_KEYS": "",        # ixtiyoriy (ovozli xabar ham shu bilan ishlaydi)
-    "OPENROUTER_KEYS": "",  # ixtiyoriy
+    "9172683934:AAFbu_kTDMId2G9V0EpVXK3ag63kAYbzKbE": "",        # MAJBURIY (BotFather bergan token)
+    "AQ.Ab8RN6LibCfflcfb6Fc3BxDPffq2VAv7UVVAMAchyesRLPiZnw": "",      # ixtiyoriy: kalit1,kali": "",        # ixtiyoriy (ovozli xabar ham shu bilan ishlaydi)
+    "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": "",  # ixtiyoriy
     "VIDEO_SPACE": "",      # ixtiyoriy: egasi/space-nomi
     "HF_TOKEN": "",         # ixtiyoriy
-    "ADMIN_ID": "",         # ixtiyoriy: sizning Telegram ID raqamingiz
+    "9172683934": "",         # ixtiyoriy: sizning Telegram ID raqamingiz
 }
 # =====================================================================
 
